@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:islami/sura_details/sura_details_args.dart';
 import 'package:islami/sura_details/sura_details_screen.dart';
 
 class SuraTitleWidget extends StatelessWidget {
